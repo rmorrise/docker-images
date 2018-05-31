@@ -115,7 +115,7 @@ else
 fi
 
 # Oracle Database Image Name
-IMAGE_NAME="cscglobal/oracle/database-novol:$VERSION-$EDITION"
+IMAGE_NAME="rmorrise/oracle/database-novol:$VERSION-$EDITION"
 
 # Go into version folder
 cd $VERSION
